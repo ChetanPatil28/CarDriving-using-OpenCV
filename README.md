@@ -20,4 +20,6 @@ The algorithm involves-
    For, more details about this visit https://docs.python.org/3/library/ctypes.html
 10. The project can further be improved by using a gesture for the 'Brake' keypress. Still working on it.    
 
- ![https://github.com/ChetanPatil28/CarDriving-using-OpenCV/blob/master/videotogif_2018.10.28_21.04.37.gif]
+The GIF file attached in the repo shows a demo version. Note that the code doesn't slow down the process as in 
+the GIF file.
+ 
