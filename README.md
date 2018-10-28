@@ -19,3 +19,5 @@ The algorithm involves-
 9. Therefore, I've used the directkeys.py file which consists of the wrappers for keyboard press.
    For, more details about this visit https://docs.python.org/3/library/ctypes.html
 10. The project can further be improved by using a gesture for the 'Brake' keypress. Still working on it.    
+
+ ![https://github.com/ChetanPatil28/CarDriving-using-OpenCV/blob/master/videotogif_2018.10.28_21.04.37.gif]
