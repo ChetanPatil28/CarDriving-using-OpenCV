@@ -23,3 +23,4 @@ The algorithm involves-
 The GIF file attached in the repo shows a demo version. Note that the code doesn't slow down the process as in 
 the GIF file.
  
+![Alt Text](<videotogif_2018.10.28_21.04.37.gif>)
